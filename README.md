@@ -18,9 +18,9 @@ Please use this command to execute the script in the root of the project.
 python main.py text [--vocab_size]
 ```
 
-for exemple:
-python main.py Trivial "word pre-tokenization of the corpus" --vocab_size 35</br>
-python main.py text "word pre-tokenization of the corpus"
+for exemple:</br>
+python main.py "word pre-tokenization of the corpus" --vocab_size 35</br>
+python main.py "word pre-tokenization of the corpus"
 
 As long as the input text is longer, the relevance of the WordPiece algorithm will be more visible
 
