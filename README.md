@@ -22,7 +22,7 @@ for exemple:</br>
 python main.py "word pre-tokenization of the corpus" --vocab_size 35</br>
 python main.py "word pre-tokenization of the corpus"
 
-As long as the input text is longer, the relevance of the WordPiece algorithm will be more visible
+As long as the input text is longer, the relevance of the WordPiece algorithm will be more visible.
 
 
 HADDOU Younes
