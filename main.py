@@ -1,7 +1,7 @@
 from wp_algo import *
 import argparse
 
-def WordPiece(text: str,vocab_size=30)->list:
+def WordPiece(text: str,vocab_size=40)->list:
     """
     Aggregate all above functions.
     Using VOCAB_SIZE, the vocabulary's granularity can be defined
