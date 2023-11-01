@@ -27,7 +27,7 @@ def vocab0(count: dict) -> list:
 
 def get_words_parts(count: dict) -> dict:
     """
-    Assotiate each words with its parts
+    Assotiate each word with its parts
     """
     words_parts = {}
     for word in count.keys():
@@ -64,7 +64,7 @@ def calculate_score(parts: dict, count: dict)-> dict:
 
 def simplify_parts(pair: tuple, words_parts: dict)-> dict:
     """
-    Simplify components list
+    Simplify parts list
     """
     lc = pair[0]
     rc = pair[1]
