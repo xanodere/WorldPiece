@@ -11,7 +11,7 @@ The algorithm can be defined as follows:
 This repo contains a notebook and its html report in addition of the python project.
 
 ### Execution
-This repo is provided with a virtual environment.
+This repo is provided with a virtual environment.</br>
 Please use this command to execute the script in the root of the project.
 
 ```bash
